@@ -7,7 +7,7 @@ Happiness plays a crucial role in enhancing individual well-being and fostering 
 
 The analysis revealed that the most significant factor contributing to happiness was the freedom to make life choices. This insight underscores the importance of personal autonomy in fostering well-being, even though some might humorously suggest that a "No Tax" policy would be a major contributor to happiness.
 
-## BASE SAS CERTIFICATION
+## Base SAS Certification
 
 Studied SAS at university and obtained a certification, gaining proficiency in data analysis and visualization using SAS
 
