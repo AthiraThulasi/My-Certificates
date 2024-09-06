@@ -1,6 +1,6 @@
 # My-Certificates
 
-## UFV Graduate Certificate - Data Analysis  -                2021 May - 2023 Dec
+## UFV Graduate Certificate - Data Analysis  -                2021 May to 2023 Dec
 
 **Key Learnings**
 
