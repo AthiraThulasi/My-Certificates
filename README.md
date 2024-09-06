@@ -1,5 +1,18 @@
 # My-Certificates
 
+## UFV Graduate Certificate - Data Analysis          2021 May - 2023 Dec
+
+**Key Learnings**
+
+Statistical Concepts and Methodologies: Gained a solid understanding of both descriptive and inferential statistics.
+Data Analysis Techniques: Proficient in applying statistical techniques to collect, assess, and analyze data.
+Predictive Modeling: Developed skills in building predictive models with complex and large datasets using R and SAS.
+Base SAS Certification: Certified in Base SAS, with hands-on experience in data analysis and reporting.
+Data Modeling with R: Acquired knowledge of supervised machine learning techniques in regression and completed a project on predicting book prices using multiple linear regression.
+SQL Proficiency: Learned to work with relational database systems for data storage, extraction, manipulation, and maintenance.
+Applied Regression Analysis: Studied linear and non-linear regression analysis techniques using R.
+
+
 ## University of The fraser valley Student Research Award for 2023 
 **Project Overview**
 
